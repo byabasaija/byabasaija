@@ -5,7 +5,7 @@
 
 
 
-<div align="start">
+<!-- <div align="start">
  <h1> Let's connect </h1>
   <a href="https://www.linkedin.com/in/pascal-byabasaija/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -19,7 +19,7 @@
   <a href="https://byabasaija.com/resume">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
   </a>
-</div>
+</div> -->
 
 ---
 
