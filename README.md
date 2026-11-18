@@ -1,6 +1,6 @@
 # Hello, I'm Pascal Byabasaija 👋
 
-> A man of Focus, Commitment and Sheer Will.
+> A man of FOCUS, COMMITMENT and SHEER WILL.
 
 
 
@@ -21,8 +21,6 @@
   </a>
 </div> -->
 
----
-
-<div align="start">
+<!-- <div align="start">
   <i>Thanks for visiting my profile! Don't hesitate to reach out if you think we could work together.</i>
-</div>
+</div> -->
